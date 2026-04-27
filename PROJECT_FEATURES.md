@@ -2,3 +2,6 @@
 "## T-14: Implement User Login Page" 
 "**Status: Implemented**" 
 "" 
+"As a doctor, I want to set and manage my available consultation slots so that patients can book appropriately." 
+"FR-System-Enable searching for doctors by specialization and availability" 
+"FR-System-Allow doctors to set consultation schedules" 
